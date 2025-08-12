@@ -25,6 +25,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding-bottom: 4em;
+    text-shadow: 2px 2px 2px ;
 }
 button {
     border: unset;
@@ -32,6 +33,7 @@ button {
     background-color: #2813cd;
     color: white;
     border-radius: 6px;
+    box-shadow: 2px 2px 2px white;
 }
 .hero {
     display: flex;
@@ -53,6 +55,7 @@ img {
 }
 .web-statement :first-child {
     color: yellow;
+    text-shadow: 3px 3px 3px pink;
 }
 .web-statement {
         max-width: 300px;
@@ -64,6 +67,7 @@ footer {
     color: var(--cool-light);
     align-items: center;
     padding-bottom: 3em;
+    text-shadow: 2px 2px 2px blue;
 }
 .task {
     display: flex;
@@ -87,6 +91,7 @@ footer {
     padding: 1em 0em;
     background-color: #f4f6f8;
     flex-wrap: wrap;
+    text-shadow: 2px 2px 2px gray;
 }
 
 .links * {
